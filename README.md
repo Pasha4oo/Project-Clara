@@ -12,6 +12,10 @@ In particular, in the telegram bot AnonRuBot. The task of "Clara" is to place a 
 
 <img src="https://github.com/user-attachments/assets/1822c41b-8d5b-47de-a445-b23f9772672f" width="500">
 
+**Simple settings GUI:**
+
+<img src="https://github.com/user-attachments/assets/964c597a-3c53-4240-912b-762140e59cb6" width="500">
+
 ## How does this work?
 
 **Imitation of humanity consists of the following points**
